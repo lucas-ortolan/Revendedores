@@ -20,6 +20,7 @@ a:link, a:visited {
   color: #045491;
   font-weight : bold;
   text-decoration: none;
+  margin: 10px;
 }
 
 a:link:hover, a:visited:hover  {

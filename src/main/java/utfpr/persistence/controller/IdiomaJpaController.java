@@ -4,7 +4,7 @@
  */
 package utfpr.persistence.controller;
 
-import inscricao.persistence.entity.Idioma;
+import revendedores.persistence.entity.Idioma;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.TypedQuery;

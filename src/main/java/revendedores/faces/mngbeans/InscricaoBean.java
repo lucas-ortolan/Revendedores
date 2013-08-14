@@ -1,7 +1,7 @@
-package inscricao.faces.mngbeans;
+package revendedores.faces.mngbeans;
 
-import inscricao.persistence.entity.Candidato;
-import inscricao.persistence.entity.Idioma;
+import revendedores.persistence.entity.Candidato;
+import revendedores.persistence.entity.Idioma;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
